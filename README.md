@@ -14,4 +14,4 @@ MAMP/MySQL/PHP
 データベース名：laravel
 テーブル
 
-お使いのphpMyAdminに上のデータベースを作り、入っているphp_weagram.sqlをインポートしていただければお使いいただけるようになると思います。
+お使いのphpMyAdminに上のデータベースを作り、入っているweagram.sqlをインポートしていただければお使いいただけるようになると思います。
